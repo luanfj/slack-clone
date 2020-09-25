@@ -19,7 +19,7 @@ Este projeto visa ser um clone do Slack.
 - [Yarn](https://classic.yarnpkg.com/) ou [npm](https://www.npmjs.com/)
 - Uma instância de [PostgreSQL](https://www.postgresql.org/)
 
-> Obs.: I recommend use docker
+> Obs.: Eu recomendo usar docker
 
 **Clone o projeto e acesse a pasta**
 
