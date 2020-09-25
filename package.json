@@ -11,7 +11,9 @@
   "author": "Luan Fernandes <luan.fj01@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^4.0.3",
-    "@slack-clone/eslint-config": "*"
+    "@slack-clone/eslint-config": "*",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.4.0",
+    "typescript": "^4.0.3"
   }
 }
