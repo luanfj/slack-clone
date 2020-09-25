@@ -16,8 +16,8 @@ Este projeto visa ser um clone do Slack.
 ### Requisitos
 
 - [Node.js](https://nodejs.org/en/)
-- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
-- One instance of [PostgreSQL](https://www.postgresql.org/)
+- [Yarn](https://classic.yarnpkg.com/) ou [npm](https://www.npmjs.com/)
+- Uma instância de [PostgreSQL](https://www.postgresql.org/)
 
 > Obs.: I recommend use docker
 
