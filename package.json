@@ -1,0 +1,17 @@
+{
+  "name": "slack-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "author": "Luan Fernandes <luan.fj01@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3",
+    "@slack-clone/eslint-config": "*"
+  }
+}
